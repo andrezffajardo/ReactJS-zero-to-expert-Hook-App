@@ -27,7 +27,6 @@ export const Memorize = () => {
                 }}
             >
                 Show/Hide { JSON.stringify( show ) }
-            }
             </button>
 
         </div>
